@@ -1,8 +1,12 @@
-CIFAR 10 :- Image 
-Link :- https://www.cs.toronto.edu/~kriz/cifar.html
+CIFAR 10 :- Image Classification
+Link :- 
+
+        https://www.cs.toronto.edu/~kriz/cifar.html
 
 
 
 
 CoNLL 2003 :- Name Entity Dataset
-Link :- https://huggingface.co/datasets/conll2003
+Link :-
+
+       https://huggingface.co/datasets/conll2003
